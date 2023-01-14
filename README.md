@@ -9,7 +9,7 @@
 
 | Exercise Name |File|
 | ------------- | ------------- |
-| Basic OpenCV Operations| [file](https://medium.com/@gokcenazakyol/what-are-fundamentals-of-image-processing-image-processing-2-39573d87b28c)|
+| Basic OpenCV Operations| [file](https://github.com/gokcenazakyol/basic-opencv-operations/tree/master)|
 
 
 ### Day 1 of 5 Days Image Processing Challange 💫
@@ -19,7 +19,7 @@
 
 ### Day 2 of 5 Days Image Processing Challange 📈
 - The human visual system allows humans to see and interpret the visual world. Brightness adaptation helps us see objects clearly in different lighting conditions, but at any one time we can only discriminate between a smaller number of different light levels than we can perceive. Digital images are composed of pixels, each storing a value. Quantization is the process of converting a continuous analog signal into a digital representation, and saturation and noise can limit the dynamic range of an imaging system. Spatial resolution refers to the smallest discernable detail in an image, and intensity level resolution refers to the number of levels used to represent an image, with a higher number resulting in more detail. The most common number of bits used to store each intensity level is 8.
-- I benefited from Digital Image Processing Book Chapter 2: Digital Image Fundamentals,  and [OpenCV Documentation](https://docs.opencv.org/3.4/d3/df2/tutorial_py_basic_ops.html). 
+- I benefited from Digital Image Processing Book Chapter 2: Digital Image Fundamentals, and [OpenCV Documentation](https://docs.opencv.org/3.4/d3/df2/tutorial_py_basic_ops.html). 
 - You can find notes that I took for Fundamentals of Image Processing from [here](https://medium.com/@gokcenazakyol/what-are-fundamentals-of-image-processing-image-processing-2-39573d87b28c).
 - You can access exercises for this part from [here](https://github.com/gokcenazakyol/basic-opencv-operations/tree/master).
 <img width="271" alt="image" src="https://user-images.githubusercontent.com/74296174/212476289-0a75a7f2-85e3-4034-abf9-4e9ae7abf71c.png">
