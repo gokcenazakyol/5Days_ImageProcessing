@@ -4,7 +4,7 @@
 | Books and Resources | Completed |
 | ------------- | ------------- |
 | “AIN430 Fundamentals of Image Processing”, Ali Seydi Keçeli  | |
-| [Digital Image Processing] (http://sdeuoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez%2C%20R.%20Woods-ilovepdf-compressed.pdf) |  |
+| [Digital Image Processing](http://sdeuoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez%2C%20R.%20Woods-ilovepdf-compressed.pdf) |  |
 | [OpenCV Documentation](https://docs.opencv.org/3.4/) |  |
 
 
