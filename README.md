@@ -22,7 +22,7 @@
 | Exercise Name |Files|
 | ------------- | ------------- |
 | Basic OpenCV Operations| [file](https://github.com/gokcenazakyol/basic-opencv-operations/tree/master)|
-| Image Enhancement | [here](https://github.com/gokcenazakyol/image-enhancement/master) |
+| Image Enhancement | [file](https://github.com/gokcenazakyol/image-enhancement/master) |
 
 
 ### Day 1 of 5 Days Image Processing Challenge 💫
