@@ -10,11 +10,13 @@
 
 | Summaries for Chapters | Notes |
 | ------------- | ------------- |
-| 1. Digital Image Processing | [note](https://medium.com/@gokcenazakyol/1-what-is-digital-image-processing-image-processing-2da13b5dfa9c).|
-| 2. Fundamentals of DIP | [note](https://medium.com/@gokcenazakyol/what-are-fundamentals-of-image-processing-image-processing-2-39573d87b28c).|
-| 3. Image Enhancement| [note](https://medium.com/@gokcenazakyol/what-is-image-enhancement-image-processing-3-32a813087e0a).|
-| 4. Spatial Filters| [note](https://medium.com/@gokcenazakyol/what-is-spatial-filtering-image-processing-4-2354215843a0). |
-| 5. Frequency Domain and Fourier Transform | [note](https://medium.com/@gokcenazakyol/what-are-filtering-in-frequency-domain-and-fourier-transform-image-processing-5-6f4cace43c91).  |
+| 1. Digital Image Processing | [note](https://medium.com/@gokcenazakyol/1-what-is-digital-image-processing-image-processing-2da13b5dfa9c)|
+| 2. Fundamentals of DIP | [note](https://medium.com/@gokcenazakyol/what-are-fundamentals-of-image-processing-image-processing-2-39573d87b28c)|
+| 3. Image Enhancement| [note](https://medium.com/@gokcenazakyol/what-is-image-enhancement-image-processing-3-32a813087e0a)|
+| 4. Spatial Filters| [note](https://medium.com/@gokcenazakyol/what-is-spatial-filtering-image-processing-4-2354215843a0)|
+| 5. Frequency Domain and Fourier Transform | [note](https://medium.com/@gokcenazakyol/what-are-filtering-in-frequency-domain-and-fourier-transform-image-processing-5-6f4cace43c91)|
+| 6. Sampling |[note](https://medium.com/@gokcenazakyol/what-is-sampling-image-processing-6-b54a0c217b79)|
+| 7. Image Restoration | [note](https://medium.com/@gokcenazakyol/how-to-restore-images-image-processing-7-cabf1186fbc5)|
 
 
 | Exercise Name |Files|
@@ -54,3 +56,14 @@
 - Also, I reviewed the image enhancement notes and practiced with the help of OpenCV librariy. You can access exercises for this part from [here](https://github.com/gokcenazakyol/image-enhancement).
 
 <img width="687" alt="image" src="https://user-images.githubusercontent.com/74296174/212735307-37c61144-04de-4f4e-a2bc-2dac6861e2a8.png">
+
+---------------------------------------------------------------------------------------------
+
+### Day 5 of 5 Days Image Processing Challenge ⚡️
+- Sampling refers to the process of selecting a subset of pixels from an image to represent the entire image at a lower resolution. Reconstruction is making samples back into a continuous function. As a result of undersampling information can be lost or aliasing problem can be occured. Aliasing gives wrong appearance in the details of the low-resolution image that do not actually exist in the original high-resolution image. It can be reduced by smoothing the edges of the image before it is sampled to a lower resolution or sampling more often.
+- You can find notes that I took for Spatial Filters from [here](https://medium.com/@gokcenazakyol/what-is-sampling-image-processing-6-b54a0c217b79). 
+
+- Image restoration is the process of removing degradation from an image, such as noise, blur, or distortion, in order to improve its overall quality. Noise in image processing refers to any unwanted or irregular variations in the intensity levels of pixels in an image. There are many different types of filters that can be used for noise removal, depending on the specific characteristics of the noise and the desired output signal. Lastly, image inpainting is the process of filling in missing or corrupted parts of an image using information from the surrounding pixels.
+- You can find notes that I took for Spatial Filters from [here](https://medium.com/@gokcenazakyol/how-to-restore-images-image-processing-7-cabf1186fbc5).
+- It was actually the last day of the challange, but, I would like to practice more about the topics. So I decided to give myself 1 or 2 more days.
+
