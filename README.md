@@ -72,7 +72,7 @@
 
 ---------------------------------------------------------------------------------------------
 
-### Bonus Part
+### Bonus Part 👻
 
 I have added summaries and exercises that I have created before to the table above.
 
