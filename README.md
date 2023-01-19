@@ -3,7 +3,7 @@
 
 | Books and Resources | Completed |
 | ------------- | ------------- |
-| “AIN430 Fundamentals of Image Processing”, Ali Seydi Keçeli  | |
+| “AIN430 Fundamentals of Image Processing”, Ali Seydi Keçeli  | ✅ |
 | [Digital Image Processing](http://sdeuoc.ac.in/sites/default/files/sde_videos/Digital%20Image%20Processing%203rd%20ed.%20-%20R.%20Gonzalez%2C%20R.%20Woods-ilovepdf-compressed.pdf) |  |
 | [OpenCV Documentation](https://docs.opencv.org/3.4/) |  |
 
@@ -17,6 +17,9 @@
 | 5. Frequency Domain and Fourier Transform | [note](https://medium.com/@gokcenazakyol/what-are-filtering-in-frequency-domain-and-fourier-transform-image-processing-5-6f4cace43c91)|
 | 6. Sampling |[note](https://medium.com/@gokcenazakyol/what-is-sampling-image-processing-6-b54a0c217b79)|
 | 7. Image Restoration | [note](https://medium.com/@gokcenazakyol/how-to-restore-images-image-processing-7-cabf1186fbc5)|
+| 8. Image Pyramids and Edges |[note](https://medium.com/@gokcenazakyol/image-pyramids-and-edges-image-processing-8-20e8016f484a)|
+| 9. Image Segmentation | [note](https://medium.com/@gokcenazakyol/what-is-image-segmentation-16d152c60257)|
+| 10. Morphology |[note](https://medium.com/@gokcenazakyol/what-is-morphology-image-segmentation-10-c10dfdd24e41)|
 
 
 | Exercise Name |Files|
@@ -65,5 +68,13 @@
 
 - Image restoration is the process of removing degradation from an image, such as noise, blur, or distortion, in order to improve its overall quality. Noise in image processing refers to any unwanted or irregular variations in the intensity levels of pixels in an image. There are many different types of filters that can be used for noise removal, depending on the specific characteristics of the noise and the desired output signal. Lastly, image inpainting is the process of filling in missing or corrupted parts of an image using information from the surrounding pixels.
 - You can find notes that I took for Spatial Filters from [here](https://medium.com/@gokcenazakyol/how-to-restore-images-image-processing-7-cabf1186fbc5).
-- It was actually the last day of the challange, but, I would like to practice more about the topics. So I decided to give myself 1 or 2 more days.
+
+
+---------------------------------------------------------------------------------------------
+
+### Bonus Part
+
+I have added summaries and exercises that I have created before to the table above.
+
+Thank you very much for viewing this repository ☺️
 
