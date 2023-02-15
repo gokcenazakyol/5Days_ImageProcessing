@@ -22,10 +22,10 @@
 | 10. Morphology |[note](https://medium.com/@gokcenazakyol/what-is-morphology-image-segmentation-10-c10dfdd24e41)|
 
 
-| Exercise Name |Files|
+| Exercise Names |Files|
 | ------------- | ------------- |
 | Basic OpenCV Operations| [file](https://github.com/gokcenazakyol/basic-opencv-operations/tree/master)|
-| Image Enhancement | [file](https://github.com/gokcenazakyol/image-enhancement/master) |
+| Image Enhancement | [file](https://github.com/gokcenazakyol/image-enhancement) |
 
 
 ### Day 1 of 5 Days Image Processing Challenge 💫
