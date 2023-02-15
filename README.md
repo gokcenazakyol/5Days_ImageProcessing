@@ -26,6 +26,8 @@
 | ------------- | ------------- |
 | Basic OpenCV Operations| [file](https://github.com/gokcenazakyol/basic-opencv-operations/tree/master)|
 | Image Enhancement | [file](https://github.com/gokcenazakyol/image-enhancement) |
+| Spatial Filters | [file](https://github.com/gokcenazakyol/spatial-filters) |
+| Fourier Transforms | [file](https://github.com/gokcenazakyol/fourier-transform) |
 
 
 ### Day 1 of 5 Days Image Processing Challenge 💫
@@ -49,13 +51,14 @@
 - Spatial filtering is a technique used to enhance or extract features from an image, such as edges or textures, and can be done using linear or nonlinear operations. Smoothing spatial filters are useful for removing noise from images and highlighting gross detail. Gaussian filters are a type of smoothing filter that remove high frequency components from an image. Correlation and convolution are closely related concepts in linear spatial filtering, with correlation being the process of moving a filter mask over an image and computing the sum of products at each position and convolution being similar, but with the filter rotated 180 degrees. Sharpening spatial filters are used to highlight fine details, remove blurring, and highlight edges in images. The first derivative measures the difference between subsequent values and the second derivative takes into account values before and after the current value. The second derivative is more useful for image enhancement because it gives a stronger response to fine details and has a simpler implementation. A commonly used sharpening filter is the Laplacian filter which highlights edges and other discontinuities. 
 - I benefited from Digital Image Processing Book Chapter 3: Intensity Transformations and Spatial Filtering. I saw that there are many other details in this chapter, so after this challenge, I will go back and read again.
 - You can find notes that I took for Spatial Filters from [here](https://medium.com/@gokcenazakyol/what-is-spatial-filtering-image-processing-4-2354215843a0).
+- You can access exercises for this part from [here](https://github.com/gokcenazakyol/spatial-filters).
 
 ---------------------------------------------------------------------------------------------
 
 ### Day 4 of 5 Days Image Processing Challenge 💥
 - Fourier theory is any function that periodically repeats itself can be expressed as a sum of sines and cosines of different frequencies each multiplied by a different coefficient. The Fourier transform is a mathematical operation that transforms a signal from the time domain to the frequency domain. The Fourier transform can be applied to both 1-dimensional and 2-dimensional signals, such as audio and images. The inverse Fourier transform can be used to convert a signal back from the frequency domain to the spatial domain. The Discrete Fourier Transform (DFT) is used to analyze discrete signals, such as digital audio and images, and it can also be computed efficiently using the Fast Fourier Transform (FFT) algorithm. Fourier analysis can also be used in filtering an image in the frequency domain, by multiplying the DFT of an image by a filter function and then computing the inverse DFT of the result. The Convolution Theorem states that the Fourier transform of the convolution of two functions is the product of their Fourier transforms, and vice versa.
 - I benefited from Digital Image Processing Book Chapter 4: Filtering in the Frequency Domain. This chapter also includes many details.
-- You can find notes that I took for Spatial Filters from [here](https://medium.com/@gokcenazakyol/what-are-filtering-in-frequency-domain-and-fourier-transform-image-processing-5-6f4cace43c91). 
+- You can find notes that I took for Fourier Transform from [here](https://medium.com/@gokcenazakyol/what-are-filtering-in-frequency-domain-and-fourier-transform-image-processing-5-6f4cace43c91). 
 - Also, I reviewed the image enhancement notes and practiced with the help of OpenCV librariy. You can access exercises for this part from [here](https://github.com/gokcenazakyol/image-enhancement).
 
 <img width="687" alt="image" src="https://user-images.githubusercontent.com/74296174/212735307-37c61144-04de-4f4e-a2bc-2dac6861e2a8.png">
@@ -64,10 +67,12 @@
 
 ### Day 5 of 5 Days Image Processing Challenge ⚡️
 - Sampling refers to the process of selecting a subset of pixels from an image to represent the entire image at a lower resolution. Reconstruction is making samples back into a continuous function. As a result of undersampling information can be lost or aliasing problem can be occured. Aliasing gives wrong appearance in the details of the low-resolution image that do not actually exist in the original high-resolution image. It can be reduced by smoothing the edges of the image before it is sampled to a lower resolution or sampling more often.
-- You can find notes that I took for Spatial Filters from [here](https://medium.com/@gokcenazakyol/what-is-sampling-image-processing-6-b54a0c217b79). 
+- You can find notes that I took for Sampling from [here](https://medium.com/@gokcenazakyol/what-is-sampling-image-processing-6-b54a0c217b79). 
 
 - Image restoration is the process of removing degradation from an image, such as noise, blur, or distortion, in order to improve its overall quality. Noise in image processing refers to any unwanted or irregular variations in the intensity levels of pixels in an image. There are many different types of filters that can be used for noise removal, depending on the specific characteristics of the noise and the desired output signal. Lastly, image inpainting is the process of filling in missing or corrupted parts of an image using information from the surrounding pixels.
-- You can find notes that I took for Spatial Filters from [here](https://medium.com/@gokcenazakyol/how-to-restore-images-image-processing-7-cabf1186fbc5).
+- You can find notes that I took for Image Restoration from [here](https://medium.com/@gokcenazakyol/how-to-restore-images-image-processing-7-cabf1186fbc5).
+
+- Also, I reviewed the fourier transform notes and practiced with the help of OpenCV librariy. You can access exercises for this part from [here](https://github.com/gokcenazakyol/fourier-transform).
 
 
 ---------------------------------------------------------------------------------------------
